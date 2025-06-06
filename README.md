@@ -1,6 +1,5 @@
-- I'm Brant Willis, a student learning to code
-- I'm interested mostly in game development right now
-- I have done work in C++ and Java for class
-- I'm currently working on development in Godot and Unity
-- I'm not actively seeking collaboration at the moment, but I'm open to any proposals
-- You can reach me at bwillie215@gmail.com
+I'm Brant Willis, a student learning to code.
+I'm interested in data analysis, game development, and software.
+I have done work in C++, Python, and Java for class, and have worked with QGIS and GDScript on my own.
+I'm currently making a story-based RPG in Godot.
+You can reach me at bwillie215@gmail.com.
